@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m a 2nd year B.Tech. student
-- 🌱 I’m currently learning Web Development
+- 🔭 I’m a 3rd year B.Tech. student
+- 🌱 I’m currently learning DSA
 - 👯 I’m looking to collaborate on web development Projects
 - 📫 How to reach me: vishira383@gmail.com
 - 😄 Pronouns: She/her
