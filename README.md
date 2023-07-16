@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m a 3rd year B.Tech. student
-- 🌱 I’m currently learning DSA
-- 👯 I’m looking to collaborate on web development Projects
+- 🔭 I’m a final year B.Tech.(CSE) student.
+- 🌱 I’m a full stack web developerand looking forward to collaborate on web development Projects
 - 📫 How to reach me: vishira383@gmail.com
 - 😄 Pronouns: She/her
 
