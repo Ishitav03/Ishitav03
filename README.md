@@ -25,9 +25,9 @@ Here are some ideas to get you started:
 
 - 🌱 I’m a full stack stack developer.
 - 👯 I’m looking to collaborate with other Developers :wink:
-- 💬 Ask me about anything, I am happy to help :smile:
+- 💬 Happy to contribute in building projects:smile:
 - 📬 You can reach me out on LinkedIn.
-- ⚡ Fun fact: I love to learn new technologies and to connect with different people :raised_hands:
+- ⚡ Fun fact: I love to learn about new technologies and to connect with different people :raised_hands:
 - 😄 Pronouns: She/her
   
 ##Tools and Technologies known and worked upon:
