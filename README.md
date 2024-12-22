@@ -19,15 +19,14 @@ Here are some ideas to get you started:
 
 <p align="center">
 <br>
-<a href="https://instagram.com/ishi__v03"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
+<a href="https://instagram.com/ishilife.moments"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
 <a href="https://www.linkedin.com/in/ishitav03/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 </p>
 
-- 🌱 I’m a final year B.Tech.(CSE) student and a MERN Stack Developer.
+- 🌱 I’m a full stack stack developer.
 - 👯 I’m looking to collaborate with other Developers :wink:
 - 💬 Ask me about anything, I am happy to help :smile:
-- 📬 How to reach me: vishira383@gmail.com
-- 🧗 I try to: Go beyond and push the bounds
+- 📬 You can reach me out on LinkedIn.
 - ⚡ Fun fact: I love to learn new technologies and to connect with different people :raised_hands:
 - 😄 Pronouns: She/her
   
@@ -38,6 +37,7 @@ Here are some ideas to get you started:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![Java](http://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)
+![Springboot](http://img.shields.io/badge/-Springboot-007396?style=flat-square&logo=SpringBoot)
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
