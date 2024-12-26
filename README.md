@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/ishitav03/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 </p>
 
-- 🌱 I’m a full stack stack developer.
+- 🌱 I’m a full stack developer.
 - 👯 I’m looking to collaborate with other Developers :wink:
 - 💬 Happy to contribute in building projects:smile:
 - 📬 You can reach me out on LinkedIn.
